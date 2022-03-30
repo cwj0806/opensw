@@ -1,2 +1,6 @@
 test11
 hahaha
+
+print("hello")
+print("hi")
+print("good")
